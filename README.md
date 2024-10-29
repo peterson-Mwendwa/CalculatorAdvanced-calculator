@@ -30,3 +30,13 @@ Welcome to the **Adventure Game**, a simple text-based adventure built in C. Exp
    ```bash
    git clone https://github.com/peterson-Mwendwa/CalculatorAdvanced-calculator.git
    cd CalculatorAdvanced-calculator
+## Contributing 🤝
+
+Contributions are welcome! If you have ideas for improvements or new features, please feel free to submit a pull request or open an issue.
+
+### How to Contribute
+
+1. **Fork the repository.**
+2. **Create your feature branch**:
+   ```bash
+   git checkout -b feature/YourFeature
